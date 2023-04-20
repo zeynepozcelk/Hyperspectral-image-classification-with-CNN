@@ -3,11 +3,10 @@ This is a Python project for hyperspectral image classification using machine le
 
 ## Requirements
 The project requires the following Python packages:
-
-numpy
-pandas
-scikit-learn
-spectral
+- numpy
+- pandas
+- scikit-learn
+- spectral
 You can install them using pip:
 
     pip install numpy pandas scikit-learn spectral
