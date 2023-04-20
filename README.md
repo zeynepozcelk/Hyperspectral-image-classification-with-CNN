@@ -4,7 +4,7 @@ This is a machine learning project that uses deep convolutional neural networks 
 ## Installation
 To use this project, you will need to clone this repository and install the required Python packages. You can do this by running the following command:
 
--> pip install -r requirements.txt
+  pip install -r requirements.txt
 
 You will also need to download the hyperspectral satellite image dataset used in this project, which can be found in the data folder.
 
