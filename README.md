@@ -9,7 +9,7 @@ The project requires the following Python packages:
 - spectral
 You can install them using pip:
 
-    pip install numpy pandas scikit-learn spectral
+           pip install numpy pandas scikit-learn spectral
 ## Dataset
 The Indian Pines dataset is used for this project, which can be downloaded from the following link:
 
@@ -26,7 +26,7 @@ The project consists of the following files:
 - evaluate.py: Functions for evaluating the classification results.
 To run the project, execute the main.py script. You can choose the classification algorithm and the parameters to use in the script.
 
-    python main.py --classifier svm --C 1 --kernel rbf --gamma 0.1
+            python main.py --classifier svm --C 1 --kernel rbf --gamma 0.1
     
 This will run the SVM algorithm with C=1, RBF kernel, and gamma=0.1. The script will print the classification report and confusion matrix for the results.
 ## Results
