@@ -33,6 +33,6 @@ This will run the SVM algorithm with C=1, RBF kernel, and gamma=0.1. The script 
 The project achieves an overall accuracy of 85% using SVM with RBF kernel, C=1, and gamma=0.1.
 
 ## Credits
-This project is created by Zeynep Ozcelik. The Indian Pines dataset is provided by the University of Basque Country. The code is adapted from the "Remote Sensing Image Classification with Python" tutorial by Hamed Habibi on Towards Data Science.
+This project is created by Zeynep Ozcelik. The Indian Pines dataset is provided by the university of Basque Country. The code is adapted from the "Remote Sensing Image Classification with Python" tutorial by Hamed Habibi on Towards Data Science.
     
   
