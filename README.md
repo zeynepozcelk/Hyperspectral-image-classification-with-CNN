@@ -27,5 +27,12 @@ The project consists of the following files:
 To run the project, execute the main.py script. You can choose the classification algorithm and the parameters to use in the script.
 
     python main.py --classifier svm --C 1 --kernel rbf --gamma 0.1
+This will run the SVM algorithm with C=1, RBF kernel, and gamma=0.1. The script will print the classification report and confusion matrix for the results.
+
+## Results
+The project achieves an overall accuracy of 85% using SVM with RBF kernel, C=1, and gamma=0.1.
+
+## Credits
+This project is created by Zeynep Ozcelik. The Indian Pines dataset is provided by the University of Basque Country. The code is adapted from the "Remote Sensing Image Classification with Python" tutorial by Hamed Habibi on Towards Data Science.
     
   
